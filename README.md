@@ -12,3 +12,4 @@ Thinkfulbnb is a vacation rental website that allows people to rent out their ho
 ### Desktop view
 
 ![](images/Thinkfulbnb-desktop.png)
+
